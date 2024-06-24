@@ -1,4 +1,4 @@
-# Hi, I'm Atharv Dirisala
+<h1 style="text-align: center">Hi, I'm Atharv Dirisala</h1>
 
 <!---
 atharvd123/atharvd123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
